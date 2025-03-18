@@ -1,0 +1,9 @@
+[
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "borrower": "Alice",
+    "dueDate": "2025-01-01",
+    "category": "Fiction"
+  }
+]
