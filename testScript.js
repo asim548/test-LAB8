@@ -1,7 +1,7 @@
 const { lendBook, getBorrowedBooks } = require("./src/book.js");
 
 
-//testing
+//book and user tested
 // Test lending a book
 console.log("Testing lendBook function...");
 const result = lendBook("1984", "George Orwell", "Alice", "2025-01-01", "Fiction");
